@@ -1,0 +1,8 @@
+dask[dataframe]
+dask-ml
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pyarrow
