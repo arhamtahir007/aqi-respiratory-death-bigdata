@@ -6,6 +6,7 @@ This project analyzes the relationship between **Air Quality Index (AQI)** and *
 - Source: Kaggle – AQI Relation to Respiratory Death Rate
 - Level: County-level (FIPS)
 - Type: Multi-year environmental & health data
+- Link: https://www.kaggle.com/datasets/jsmith51/aqi-relation-to-respiratory-death-rate/code
 
 ## 🛠 Tools & Technologies
 - Python
