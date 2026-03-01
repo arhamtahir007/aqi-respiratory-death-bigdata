@@ -2,13 +2,13 @@
 
 This project analyzes the relationship between **Air Quality Index (AQI)** and **respiratory disease mortality** across U.S. counties using **big data analytics**.
 
-## 📊 Dataset
+## Dataset
 - Source: Kaggle – AQI Relation to Respiratory Death Rate
 - Level: County-level (FIPS)
 - Type: Multi-year environmental & health data
 - Link: https://www.kaggle.com/datasets/jsmith51/aqi-relation-to-respiratory-death-rate/code
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python
 - Dask (Parallel DataFrames)
 - Scikit-learn
@@ -16,7 +16,7 @@ This project analyzes the relationship between **Air Quality Index (AQI)** and *
 - Power BI (Visualization)
 - Tableau (Visualization)
 
-## 🔍 Methodology
+## Methodology
 1. Data ingestion using Dask
 2. Data cleaning & normalization
 3. Exploratory data analysis
@@ -26,21 +26,21 @@ This project analyzes the relationship between **Air Quality Index (AQI)** and *
 7. K-Means clustering
 8. County-level aggregation
 
-## 📈 Key Findings
+## Key Findings
 - PM2.5 exposure shows the strongest association with respiratory death rates
 - Median AQI alone is a weak predictor of mortality
 - Pollutant-specific days are more informative than aggregate AQI
 - Machine learning confirms PM2.5 as the dominant feature
 - Spatial clustering identifies high-risk counties
 
-## 🌍 SDG Alignment
+## SDG Alignment
 - **SDG 3:** Good Health and Well-Being
 - **SDG 11:** Sustainable Cities and Communities
 - **SDG 13:** Climate Action
 
-## 📁 Outputs
+## Outputs
 All processed results are saved as CSV files in the `outputs/` folder.
 
-## 📌 Author
+## Author
 **Muhammad Arham & Alishba Zahid**  
 Big Data Analytics | 2025
